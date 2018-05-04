@@ -1,0 +1,1 @@
+<a class="btn btn-success" href="{{href}}" role="button">{{title}}</a>

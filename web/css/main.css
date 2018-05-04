@@ -1,0 +1,9 @@
+#content{
+    min-height: 60vh;
+}
+.colHeight{
+    min-height: inherit;
+}
+.highlight {
+    background-color: #f4f8ff;
+}
