@@ -1,12 +1,9 @@
-<h2>BOK - Biuro Obsługi Klienta</h2>
+<h2>BOK - Customer Service Chat</h2>
 
-Warsztat miał na celu stworzenie prostego chatu z BOK.
-Implementuje funkcjonalności:
-
+Implemented functionality:
 <ul>
-  <li>Aplikacja posiada dwie role: support i klient</li>
-  <li>Logowanie do aplikacji</li>
-  <li>Klient może stworzyć nowy wątek (konwersację) z BOK</li>
-  <li>Po stronie supportu istnieje system przypisania wątków do siebie</li>
-  <li>W danym wątku klient może wymieniać wiadomości z supportem (nie są wymieniane live)</li>
+  <li>Login system.</li>
+  <li>Two roles for user: client & support.</li>
+  <li>Client can create new conversation with support.</li>
+  <li>Support user can assign conversation.</li>
 </ul>
